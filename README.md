@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi im Andre castro 👋
 
-<!--
-**andrecass/andrecass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrecastrocostadel/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-castro-costa-9562b61b5/recent-activity/shares/)
 
-Here are some ideas to get you started:
+![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrera&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tecnologias que eu utilizo
+
+
+
+
+<div style="display: inline_block"></br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+## Cursos 📚
+
+## Networking Academy® Introduction to IoT
+
+- explicar como a IoT e a transformação digital estão afetando de forma
+positiva os negócios e os governos.
+Explicar a importância do software e dos dados para negócios e uma
+sociedade digitais.
+Explicar os benefícios da automação e da inteligência artificial na
+transformação digital
+Explicar os conceitos de rede baseada em intenção.
+Explicar a necessidade de aumentar a segurança no mundo digitalizado.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-castro-costa-9562b61b5/details/education/)
